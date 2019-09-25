@@ -125,5 +125,5 @@ null values for units).
 ```javascript
 moment.duration(NaN);
 moment.duration(NaN, 'days');
-moment.duration.invalid();
+moment.duration.isValid();
 ```
